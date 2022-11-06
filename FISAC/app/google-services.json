@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867126076653",
+    "project_id": "fisac-16cf0",
+    "storage_bucket": "fisac-16cf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867126076653:android:a8441230fdf26e06ad18e4",
+        "android_client_info": {
+          "package_name": "com.example.fisac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867126076653-gg96blge2hqje5qtj9oba0jp6e3h8ed6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLA-5POhLN3fMoCmpkquYoFOWm6QT9GX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867126076653-gg96blge2hqje5qtj9oba0jp6e3h8ed6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
